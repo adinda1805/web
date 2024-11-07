@@ -25,7 +25,7 @@ body {
  
 .footer {
   grid-area: footer;
-  background: purple;
+  background: pink;
 }
  
 .container {
@@ -59,7 +59,7 @@ nav li {
 }
  
 nav li a {
-  color: white;
+  color: pink;
   font-weight: 700;
   opacity: 0.6;
   text-decoration: none;
