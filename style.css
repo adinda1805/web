@@ -1,4 +1,4 @@
-* {
+{
   margin: 0;
   padding: 0;
 }
@@ -25,7 +25,7 @@ body {
  
 .footer {
   grid-area: footer;
-  background: white;
+  background: red;
 }
  
 .container {
